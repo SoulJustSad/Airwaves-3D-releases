@@ -21,6 +21,10 @@ You need a 3DS with custom firmware (Luma3DS) and **FBI**. Run **DSP1** once so 
 2. Scan the QR code on the newest [release](../../releases/latest). The `install-qr-latest.png` code always installs the newest build.
 3. Airwaves 3D appears on your HOME Menu.
 
+## Test builds
+
+Most people want the release above. If you like living dangerously, there is a rolling **[test build](../../releases)** marked *Test build (unstable)* among the releases: the newest work in progress, which can crash, misbehave or change daily. It has its own QR code on its page. Please don't report problems with a test build as if it were the release; say which one you used.
+
 ## Setting up Windy webcams (optional, free)
 
 Windy has the world's largest collection of webcams (Japan, Korea, all over Europe...). Each user needs their own free key:
