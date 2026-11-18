@@ -9,7 +9,7 @@ This repo holds the downloads and the daily webcam list. The source code is not 
 ## What it does
 
 - **12,000 radio stations** placed on a textured globe, plus a search that reaches about 50,000 more. Plays MP3, AAC, AAC+ and HLS, and shows song titles when a station sends them. Every station shows its country flag.
-- **A real globe. Day and night follow the actual sun, cities light up after dark, coastlines and borders are drawn in, 40 cities have their own skyline, and it all works in stereoscopic 3D. The whole planet repaints itself in whichever theme you pick.
+- A real globe. Day and night follow the actual sun, cities light up after dark, coastlines and borders are drawn in, 40 cities have their own skyline, and it all works in stereoscopic 3D. The whole planet repaints itself in whichever theme you pick.
 - **Weather** for any city, with rain, snow and thunderstorms appearing in the sky behind the globe.
 - **News** headlines for the city you are looking at, with a QR code to open the full story on your phone.
 - **Live webcams** from open traffic and weather cameras in London, California, Spain, Finland, Hong Kong and Singapore. Add a free Windy key for cameras worldwide, including Japan and Korea. A camera can sit in the corner of the top screen or fill it completely.
